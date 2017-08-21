@@ -1,5 +1,7 @@
 # casperjs
 导航脚本处理和测试工具，能爬网页，网页截图
+PhantomJS是一个无界面的,包含了WebKit浏览器引擎和JavaScript API的脚本解释器.PhantomJs是专门针对Webkit的后台javascript API
+CasperJS是一个开源的,用JavaScript编写的,基于PhantomJS的导航脚本和测试工具 ,它简化了定义一个完成的导航操作所需的步骤,还提供了很有用的函数封装,方法,和语法糖
 ###### win7上 安装phantomjs
 * 直接下载phantomjs-2.1.1-windows.zip
 * 解压到c盘，重命名phantomjs
